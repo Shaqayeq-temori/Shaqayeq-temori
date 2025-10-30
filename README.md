@@ -3,4 +3,6 @@
   <h1 >Shaqayeq Temory</h1>
   <hr>
   <p>This is Shaqayeq Temory</p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </div>
+
