@@ -1,1 +1,1 @@
-<h1>Shaqayeq Temory</h1>
+<h1 align="center">Shaqayeq Temory</h1>
